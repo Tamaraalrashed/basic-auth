@@ -4,7 +4,7 @@
 
 ### [Deployment](https://tamara--basic-auth.herokuapp.com/)
 ### [Tests report](https://github.com/Tamaraalrashed/basic-auth/actions/workflows/node.js.yml)
-### [Submission PR](https://github.com/Tamaraalrashed/basic-auth/pull/2)
+### [Submission PR](https://github.com/Tamaraalrashed/basic-auth/pull/1)
 
 <hr>
 
